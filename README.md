@@ -3,6 +3,7 @@
 *Arnaav Anand*  
 *12/06/2024*  
 
+Please refer to `Report.pdf` for the full rundown with diagrams and screenshots.
 ---
 
 ## 1. Introduction  
