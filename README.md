@@ -11,6 +11,8 @@ Please refer to `Report.pdf` for the full rundown with diagrams and screenshots.
 ### 1.1 Project Goal  
 This project builds a data processing pipeline using AWS infrastructure to manage and analyze the `car_prices` dataset. The pipeline processes data, extracts insights, and sends notifications about key trends. It integrates with AWS QuickSight for dynamic dashboards and leverages SageMaker Studio to train models predicting profit based on vehicle features. Automation ensures seamless updates while optimizing resources and costs.
 
+![Flowchart](flowchart.png)
+
 ### 1.2 Dataset  
 The `car_prices` dataset contains 558,838 rows and 16 columns detailing historical car sales. Each row represents a sale with attributes such as year, make, model, trim, body type, transmission, VIN, state of sale, condition, odometer reading, colors, seller info, Manheim Market Report (MMR) value, selling price, and timestamps. This comprehensive data supports analysis of vehicle valuation, market trends, and buyer preferences.
 
